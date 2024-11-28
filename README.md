@@ -19,7 +19,7 @@ Created **test cases** for the following scenarios:
 - Customer makes a payment to a Merchant.
 - Check balances and transaction statements for Customers and the Merchant.
 
-Find the test cases [here](./test-cases/dmoney-test-cases.xlsx).
+The test cases are [Click Here to see the Test Cases](./test-cases/dmoney-test-cases.xlsx).
 
 ---
 
@@ -31,7 +31,7 @@ Find the test cases [here](./test-cases/dmoney-test-cases.xlsx).
   - [Transaction API](https://dmoney.roadtocareer.net/api-docs/transaction)
 
 
-Postman collection: [Download](https://documenter.getpostman.com/view/37278328/2sAYBXAWBM).
+Postman collection: [Click Here to see the Postman API Documentation](https://documenter.getpostman.com/view/37278328/2sAYBXAWBM).
 
 ---
 
@@ -40,14 +40,12 @@ Postman collection: [Download](https://documenter.getpostman.com/view/37278328/2
 - Included summary screenshots of the execution.
 
 View the Newman report screenshots below:
-![Newman Report 1](./screenshots/newman-report-1.png)  
-![Newman Report 2](./screenshots/newman-report-2.png)
-
+![Newman Report ](https://github.com/user-attachments/assets/89604369-897d-4f7e-86fa-e01b32d5a183)
 ---
 
 ### 4. **Postman Documentation**
-Postman documentation for the test cases and endpoints is available online:  
-[View Postman Documentation](https://documenter.getpostman.com/view/documentation-link).
+Postman documentation for the test cases and endpoints is available:  
+[Click here to view Postman Documentation](https://documenter.getpostman.com/view/37278328/2sAYBXAWBM).
 
 ---
 
