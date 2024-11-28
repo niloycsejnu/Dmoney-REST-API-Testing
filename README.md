@@ -101,6 +101,8 @@ Ensure you have the following installed on your machine:
 ### Running the Project
 
 Run the `Report.js` script using Node.js in the terminal:  
+`npx newman run "copy & paste published collection link without inverted comma"`
+Then 
 `node Report.js`
 
 ### Expected Output
