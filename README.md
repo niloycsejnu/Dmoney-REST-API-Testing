@@ -41,6 +41,8 @@ Postman collection: [Click Here to see the Postman API Documentation](https://do
 
 View the Newman report screenshots below:
 ![Newman Report ](https://github.com/user-attachments/assets/89604369-897d-4f7e-86fa-e01b32d5a183)
+-
+
 ---
 
 ### 4. **Postman Documentation**
@@ -49,8 +51,8 @@ Postman documentation for the test cases and endpoints is available:
 
 ---
 
-### 5. **Issue Report**
-Reported **issues or improvements** in a Google Sheet, with details such as:
+### 5. **Bug Report**
+Reported **Bug or Improvements** in a Google Sheet, with details such as:
 - Issue Type (Bug/Improvement)
 - Issue Title
 - Description and Steps to Reproduce
@@ -58,7 +60,7 @@ Reported **issues or improvements** in a Google Sheet, with details such as:
 - Priority and Severity
 - Attachments with screenshots
 
-Access the issue report [here](https://docs.google.com/spreadsheets/d/issue-report-link).
+Access the issue report [Click here to view Bug Report](https://docs.google.com/spreadsheets/d/issue-report-link).
 
 ---
 
