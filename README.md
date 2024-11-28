@@ -4,7 +4,11 @@
 This project involves testing the **dMoney REST API** to validate its functionalities, identify issues and provide suggestions for improvement. The testing focuses on creating, managing and handling transactions between various user roles like(Admin,System User,Agent,Customers,Merchant).
 
 ---
-
+## Tools and Technology
+- Postman
+- Newman
+- Nodejs
+---
 ## Tasks and Deliverables
 
 ### 1. **Test Cases**
