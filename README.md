@@ -67,4 +67,49 @@ Reported **Bug or Improvements** in a Google Sheet, with details such as:
 Access the issue report [Click here to view Bug Report](https://docs.google.com/spreadsheets/d/issue-report-link).
 
 ---
+## Follow these instructions to set up and run the project locally.
+
+This project is designed to test the Dmoney REST API using JavaScript. It utilizes Node.js to run the test scripts and I provide a step-by-step guide for anyone to clone and run the project on their machine.
+
+
+
+
+
+### Prerequisites
+
+Ensure you have the following installed on your machine:  
+- [Node.js](https://nodejs.org/) (version 14.x or later)  
+- [Git](https://git-scm.com/)
+
+### Installation
+
+1. **Clone the Repository**  
+   Open your terminal and run:  
+   `git clone https://github.com/niloycsejnu/Dmoney-REST-API-Testing.git`
+
+2. **Navigate to the Project Directory**  
+   Change your working directory to the cloned repository:  
+   `cd Dmoney-REST-API-Testing`
+
+3. **Install Dependencies**  
+   Install the required dependencies using npm:  
+   `npm install`
+
+### Running the Project
+
+Run the `Report.js` script using Node.js in the terminal:  
+`node Report.js`
+
+### Expected Output
+
+The script will run tests against the Dmoney REST API and display the results in the terminal.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or issues, feel free to open an issue in the repository or contact me via [GitHub](https://github.com/niloycsejnu).
+
 
