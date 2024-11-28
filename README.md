@@ -8,6 +8,7 @@ This project involves testing the **dMoney REST API** to validate its functional
 - Postman
 - Newman
 - Nodejs
+- VSCode
 ---
 ## Tasks and Deliverables
 
@@ -23,7 +24,7 @@ Created **test cases** for the following scenarios:
 - Customer makes a payment to a Merchant.
 - Check balances and transaction statements for Customers and the Merchant.
 
-The test cases are [Click Here to see the Test Cases](./test-cases/dmoney-test-cases.xlsx).
+**The test cases are:** [Click Here to see the Test Cases](./test-cases/dmoney-test-cases.xlsx).
 
 ---
 
@@ -35,7 +36,7 @@ The test cases are [Click Here to see the Test Cases](./test-cases/dmoney-test-c
   - [Transaction API](https://dmoney.roadtocareer.net/api-docs/transaction)
 
 
-Postman collection: [Click Here to see the Postman API Documentation](https://documenter.getpostman.com/view/37278328/2sAYBXAWBM).
+**Postman collection:** [Click Here to see the Postman API Documentation](https://documenter.getpostman.com/view/37278328/2sAYBXAWBM).
 
 ---
 
@@ -64,7 +65,7 @@ Reported **Bug or Improvements** in a Google Sheet, with details such as:
 - Priority and Severity
 - Attachments with screenshots
 
-Access the issue report [Click here to view Bug Report](https://docs.google.com/spreadsheets/d/issue-report-link).
+**Access the issue report:** [Click here to view Bug Report](https://docs.google.com/spreadsheets/d/issue-report-link).
 
 ---
 ## Follow these instructions to set up and run the project locally.
@@ -104,9 +105,6 @@ Run the `Report.js` script using Node.js in the terminal:
 
 The script will run tests against the Dmoney REST API and display the results in the terminal.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
