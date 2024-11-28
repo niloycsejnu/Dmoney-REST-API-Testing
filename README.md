@@ -67,7 +67,7 @@ Reported **Bug or Improvements** in a Google Sheet, with details such as:
 - Priority and Severity
 - Attachments with screenshots
 
-**To see the bug report:** [Click here to view Bug Report](https://docs.google.com/spreadsheets/d/1D4KpGudFUSgzMFmbi_4-6sMMqrUUbvVP/edit?usp=drive_link&ouid=105207321304680998857&rtpof=true&sd=true).
+**To see the bug report:** [Click here to view Bug Report](https://docs.google.com/spreadsheets/d/1KJ1lUcWXme35onPknkiN4r3d6a0nYFSi/edit?usp=sharing&ouid=105207321304680998857&rtpof=true&sd=true).
 
 ---
 ## Follow these instructions to set up and run the project locally.
