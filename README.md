@@ -24,7 +24,7 @@ Created **test cases** for the following scenarios:
 - Customer makes a payment to a Merchant.
 - Check balances and transaction statements for Customers and the Merchant.
 
-**The test cases are:** [Click Here to see the Test Cases](https://docs.google.com/spreadsheets/d/1QAIla0oxTbW5Xj_oL_HhHIJDxYRHK4tH/edit?usp=sharing&ouid=105207321304680998857&rtpof=true&sd=true).
+**The test cases are:** [Click Here to see the Test Cases](https://docs.google.com/spreadsheets/d/1ie_j_CTSMxg_QjAT1q4TclJ8GnCKnBPx/edit?usp=sharing&ouid=105207321304680998857&rtpof=true&sd=true).
 
 ---
 
@@ -69,7 +69,7 @@ Reported **Bug or Improvements** in a Google Sheet, with details such as:
 - Priority and Severity
 - Attachments with screenshots
 
-**To see the bug report:** [Click here to view Bug Report](https://docs.google.com/spreadsheets/d/1KJ1lUcWXme35onPknkiN4r3d6a0nYFSi/edit?usp=sharing&ouid=105207321304680998857&rtpof=true&sd=true).
+**To see the bug report:** [Click here to view Bug Report](https://docs.google.com/spreadsheets/d/1pWl7CV-sUy3FvbPGRyb3kgWZWnWqDp0Z/edit?usp=sharing&ouid=105207321304680998857&rtpof=true&sd=true).
 
 ---
 ## Follow these instructions to set up and run the project locally.
