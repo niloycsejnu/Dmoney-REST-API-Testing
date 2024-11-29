@@ -24,7 +24,7 @@ Created **test cases** for the following scenarios:
 - Customer makes a payment to a Merchant.
 - Check balances and transaction statements for Customers and the Merchant.
 
-**The test cases are:** [Click Here to see the Test Cases](./test-cases/dmoney-test-cases.xlsx).
+**The test cases are:** [Click Here to see the Test Cases](https://docs.google.com/spreadsheets/d/1QAIla0oxTbW5Xj_oL_HhHIJDxYRHK4tH/edit?usp=sharing&ouid=105207321304680998857&rtpof=true&sd=true).
 
 ---
 
