@@ -45,9 +45,11 @@ Created **test cases** for the following scenarios:
 - Included summary screenshots of the execution.
 
 View the Newman report screenshots below:
-![Newman Report1 ](https://github.com/user-attachments/assets/89604369-897d-4f7e-86fa-e01b32d5a183)
+![report 1](https://github.com/user-attachments/assets/5bdc4e61-e88d-4e4c-bcf3-d158ad43455d
+)
 -
-![Newman Report2 ](https://github.com/user-attachments/assets/de9718ec-f3d2-4f13-a416-6f4d8b4c2412)
+![report 2](https://github.com/user-attachments/assets/eba131fb-7a8b-42f6-8fb2-54b8da9ae432
+)
 -
 
 ---
